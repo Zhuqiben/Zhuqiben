@@ -1,53 +1,53 @@
 <div align="center">
 
-# 浣犲ソ锛屾垜鏄?Qibensu 馃憢
+# 你好，我是 Qibensu 👋
 
-### 寮€鍙戣€?路 鎶€鏈啓浣滆€?路 缁堣韩瀛︿範鑰?
+### 开发者 · 技术写作者 · 终身学习者
 
-璁板綍鎶€鏈疄璺碉紝鍒嗕韩瀛︿範蹇冨緱锛屾寔缁瀯寤烘湁浠峰€肩殑浣滃搧銆?
+记录技术实践，分享学习心得，持续构建有价值的作品。
 
-[璁块棶鎴戠殑鍗氬](./index.html) 路 [鏌ョ湅椤圭洰](#绮鹃€夐」鐩? 路 [鑱旂郴鎴慮(#鑱旂郴鎴?
+[访问我的博客](./index.html) · [查看项目](#精选项目) · [联系我](#联系我)
 
 </div>
 
 ---
 
-## 鍏充簬鎴?
+## 关于我
 
-- 馃敪 姝ｅ湪涓撴敞浜庯細璁＄畻鏈鸿瑙夈€佹繁搴﹀涔犱笌鑷姩椹鹃┒鐩稿叧椤圭洰
-- 馃尡 姝ｅ湪瀛︿範锛歅ython銆丳yTorch 涓庢満鍣ㄤ汉鎶€鏈?
-- 馃摑 鏂囩珷涓婚〉锛歔鎴戠殑鍗氬](./index.html)
-- 馃挰 娆㈣繋浜ゆ祦锛氭妧鏈疄璺点€佸紑婧愰」鐩笌寮€鍙戠粡楠?
+- 🔭 正在专注于：计算机视觉、深度学习与自动驾驶相关项目
+- 🌱 正在学习：Python、PyTorch 与机器人技术
+- 📝 文章主页：[我的博客](./index.html)
+- 💬 欢迎交流：技术实践、开源项目与开发经验
 
-## 鎶€鏈爤
+## 技术栈
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 绮鹃€夐」鐩?
+## 精选项目
 
-| 椤圭洰 | 绠€浠?| 鎶€鏈?|
+| 项目 | 简介 | 技术 |
 | --- | --- | --- |
-| [lane_driving](https://github.com/Zhuqiben/lane_driving) | 杞﹂亾绾块┚椹剁浉鍏抽」鐩?| `Python` |
-| [pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) | MPIIGaze 涓?MPIIFaceGaze 鐨勯潪瀹樻柟 PyTorch 瀹炵幇 | `Python` `PyTorch` |
+| [lane_driving](https://github.com/Zhuqiben/lane_driving) | 车道线驾驶相关项目 | `Python` |
+| [pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) | MPIIGaze 与 MPIIFaceGaze 的非官方 PyTorch 实现 | `Python` `PyTorch` |
 
-## 鏈€杩戞枃绔?
+## 最近文章
 
-- [鏂囩珷鏍囬涓€](#) 鈥斺€?绠€瑕佷粙缁嶆枃绔犲唴瀹?
-- [鏂囩珷鏍囬浜宂(#) 鈥斺€?绠€瑕佷粙缁嶆枃绔犲唴瀹?
-- [鏂囩珷鏍囬涓塢(#) 鈥斺€?绠€瑕佷粙缁嶆枃绔犲唴瀹?
+- [文章标题一](#) —— 简要介绍文章内容
+- [文章标题二](#) —— 简要介绍文章内容
+- [文章标题三](#) —— 简要介绍文章内容
 
-## 鑱旂郴鎴?
+## 联系我
 
-- GitHub锛歔@Zhuqiben](https://github.com/Zhuqiben)
-- Kaggle锛歔@qibensu](https://www.kaggle.com/qibensu)
-- Kaggle 鎴愬氨锛氬湪 UM - Game-Playing Strength of MCTS Variants 绔炶禌涓幏寰楅摐鐗岋紙[鏌ョ湅璁よ瘉](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants)锛?
-- 鑱旂郴鏂瑰紡锛氳閫氳繃 [GitHub](https://github.com/Zhuqiben) 鑱旂郴鎴?
+- GitHub：[@Zhuqiben](https://github.com/Zhuqiben)
+- Kaggle：[@qibensu](https://www.kaggle.com/qibensu)
+- Kaggle 成就：在 UM - Game-Playing Strength of MCTS Variants 竞赛中获得铜牌（[查看认证](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants)）
+- 联系方式：请通过 [GitHub](https://github.com/Zhuqiben) 联系我
 
 <div align="center">
 
-鎰熻阿浣犵殑璁块棶锛屾杩庡叧娉ㄥ拰浜ゆ祦 鉁?
+感谢你的访问，欢迎关注和交流 ✨
 
 </div>
