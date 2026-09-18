@@ -43,7 +43,6 @@
 
 - GitHub：[@Zhuqiben](https://github.com/Zhuqiben)
 - Kaggle：[@qibensu](https://www.kaggle.com/qibensu)
-- Kaggle 成就：在 UM - Game-Playing Strength of MCTS Variants 竞赛中获得铜牌（[查看认证](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants)）
 - 联系方式：请通过 [GitHub](https://github.com/Zhuqiben) 联系我
 
 <div align="center">
