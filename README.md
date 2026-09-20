@@ -1,52 +1,26 @@
-<div align="center">
+# 你好，我是 soo 👋
+# Hello, I'm soo 👋
 
-# 你好，我是 Qibensu 👋
+## 关于我 · About me
+我专注于计算机视觉、深度学习、自动驾驶与机器人技术。
+I focus on computer vision, deep learning, autonomous driving, and robotics.
 
-### 开发者 · 技术写作者 · 终身学习者
+我喜欢通过开源项目记录实践与学习。
+I enjoy documenting practical work through open-source projects。
 
-记录技术实践，分享学习心得，持续构建有价值的作品。
+## 我的博客 · My Blog
+欢迎访问我的中英文个人博客。
+Welcome to my bilingual personal blog.
 
-[访问我的博客](./index.html) · [查看项目](#精选项目) · [联系我](#联系我)
+[**进入个人博客 · Visit my blog**](https://zhuqiben.github.io/blog/)
 
-</div>
+关于我：[关于我](https://zhuqiben.github.io/blog/#about)
+About: [About](https://zhuqiben.github.io/blog/#about)
+最近文章：[最近文章](https://zhuqiben.github.io/blog/#posts)
+Recent notes: [Recent notes](https://zhuqiben.github.io/blog/#posts)
+精选项目：[精选项目](https://zhuqiben.github.io/blog/#projects)
+Selected projects: [Selected projects](https://zhuqiben.github.io/blog/#projects)
 
----
-
-## 关于我
-
-- 🔭 正在专注于：计算机视觉、深度学习与自动驾驶相关项目
-- 🌱 正在学习：Python、PyTorch 与机器人技术
-- 📝 文章主页：[我的博客](./index.html)
-- 💬 欢迎交流：技术实践、开源项目与开发经验
-
-## 技术栈
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 精选项目
-
-| 项目 | 简介 | 技术 |
-| --- | --- | --- |
-| [lane_driving](https://github.com/Zhuqiben/lane_driving) | 车道线驾驶相关项目 | `Python` |
-| [pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) | MPIIGaze 与 MPIIFaceGaze 的非官方 PyTorch 实现 | `Python` `PyTorch` |
-
-## 最近文章
-
-- [文章标题一](#) —— 简要介绍文章内容
-- [文章标题二](#) —— 简要介绍文章内容
-- [文章标题三](#) —— 简要介绍文章内容
-
-## 联系我
-
-- GitHub：[@Zhuqiben](https://github.com/Zhuqiben)
-- Kaggle：[@qibensu](https://www.kaggle.com/qibensu)
-- 联系方式：请通过 [GitHub](https://github.com/Zhuqiben) 联系我
-
-<div align="center">
-
-感谢你的访问，欢迎关注和交流 ✨
-
-</div>
+## 数据科学 · Data Science
+我的 Kaggle 主页：[qibensu](https://www.kaggle.com/qibensu)
+My Kaggle profile: [qibensu](https://www.kaggle.com/qibensu)
