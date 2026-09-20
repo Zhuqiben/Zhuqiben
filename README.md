@@ -28,6 +28,13 @@ My Kaggle profile: [qibensu](https://www.kaggle.com/qibensu)
 Kaggle 获奖：在 UM - Game-Playing Strength of MCTS Variants Competition 竞赛中获得铜牌（[查看认证](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants)）<br>
 Kaggle achievement: received a Competition Bronze Medal in the [UM - Game-Playing Strength of MCTS Variants Competition](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants).
 
+## 精选项目 · Selected projects
+车道线驾驶项目：[lane_driving](https://github.com/Zhuqiben/lane_driving) · Python<br>
+Lane driving project: [lane_driving](https://github.com/Zhuqiben/lane_driving) · Python
+
+MPIIGaze 与 MPIIFaceGaze 的非官方 PyTorch 实现：[pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) · Python / PyTorch<br>
+Unofficial PyTorch implementation of MPIIGaze and MPIIFaceGaze: [pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) · Python / PyTorch
+
 ## 技术栈 · Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -37,10 +44,3 @@ Kaggle achievement: received a Competition Bronze Medal in the [UM - Game-Playin
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## 精选项目 · Selected projects
-车道线驾驶项目：[lane_driving](https://github.com/Zhuqiben/lane_driving) · Python<br>
-Lane driving project: [lane_driving](https://github.com/Zhuqiben/lane_driving) · Python
-
-MPIIGaze 与 MPIIFaceGaze 的非官方 PyTorch 实现：[pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) · Python / PyTorch<br>
-Unofficial PyTorch implementation of MPIIGaze and MPIIFaceGaze: [pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) · Python / PyTorch
