@@ -24,3 +24,13 @@ Selected projects: [Selected projects](https://zhuqiben.github.io/blog/#projects
 ## 数据科学 · Data Science
 我的 Kaggle 主页：[qibensu](https://www.kaggle.com/qibensu)
 My Kaggle profile: [qibensu](https://www.kaggle.com/qibensu)
+
+Kaggle 获奖：在 UM - Game-Playing Strength of MCTS Variants Competition 竞赛中获得铜牌（[查看认证](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants)）
+Kaggle achievement: received a Competition Bronze Medal in the [UM - Game-Playing Strength of MCTS Variants Competition](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants).
+
+## 精选项目 · Selected projects
+车道线驾驶项目：[lane_driving](https://github.com/Zhuqiben/lane_driving) · Python
+Lane driving project: [lane_driving](https://github.com/Zhuqiben/lane_driving) · Python
+
+MPIIGaze 与 MPIIFaceGaze 的非官方 PyTorch 实现：[pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) · Python / PyTorch
+Unofficial PyTorch implementation of MPIIGaze and MPIIFaceGaze: [pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) · Python / PyTorch
