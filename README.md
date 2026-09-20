@@ -28,6 +28,10 @@ My Kaggle profile: [qibensu](https://www.kaggle.com/qibensu)
 Kaggle 获奖：在 UM - Game-Playing Strength of MCTS Variants Competition 竞赛中获得铜牌（[查看认证](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants)）<br>
 Kaggle achievement: received a Competition Bronze Medal in the [UM - Game-Playing Strength of MCTS Variants Competition](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants).
 
+## 技术栈 · Tech Stack
+Python · PyTorch · ROS 2 · OpenCV · HTML · CSS · JavaScript · Git
+Python · PyTorch · ROS 2 · OpenCV · HTML · CSS · JavaScript · Git
+
 ## 精选项目 · Selected projects
 车道线驾驶项目：[lane_driving](https://github.com/Zhuqiben/lane_driving) · Python<br>
 Lane driving project: [lane_driving](https://github.com/Zhuqiben/lane_driving) · Python
