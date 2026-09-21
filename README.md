@@ -14,12 +14,12 @@ Welcome to my bilingual personal blog.
 
 [**进入个人博客 · Visit my blog**](https://zhuqiben.github.io/blog/)
 
-关于我：[关于我](https://zhuqiben.github.io/blog/#about)<br>
-About: [About](https://zhuqiben.github.io/blog/#about)
-最近文章：[最近文章](https://zhuqiben.github.io/blog/#posts)<br>
-Recent notes: [Recent notes](https://zhuqiben.github.io/blog/#posts)
-精选项目：[精选项目](https://zhuqiben.github.io/blog/#projects)<br>
-Selected projects: [Selected projects](https://zhuqiben.github.io/blog/#projects)
+[关于我](https://zhuqiben.github.io/blog/#about)<br>
+[About](https://zhuqiben.github.io/blog/#about)
+[最近文章](https://zhuqiben.github.io/blog/#posts)<br>
+[Recent notes](https://zhuqiben.github.io/blog/#posts)
+[精选项目](https://zhuqiben.github.io/blog/#projects)<br>
+[Selected projects](https://zhuqiben.github.io/blog/#projects)
 
 ## 数据科学 · Data Science
 我的 Kaggle 主页：[qibensu](https://www.kaggle.com/qibensu)<br>
