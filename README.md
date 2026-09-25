@@ -2,11 +2,14 @@
 # Hello, I'm soo 👋
 
 ## 关于我 · About me
-我专注于计算机视觉、深度学习、自动驾驶与机器人技术。<br>
-I focus on computer vision, deep learning, autonomous driving, and robotics.
+我是一名机器人感知算法开发者，专注于机器人感知、计算机视觉、深度学习、嵌入式部署与仿真到真机落地。<br>
+I am a robot perception developer focused on robot perception, computer vision, deep learning, edge deployment, and simulation-to-real applications.
+
+教育背景：东莞理工学院 · 机电工程（2021.09–2025.06）。<br>
+Education: Dongguan University of Technology · Mechanical and Electrical Engineering (2021.09–2025.06).
 
 我喜欢通过开源项目记录实践与学习。<br>
-I enjoy documenting practical work through open-source projects。
+I enjoy documenting practical work and learning through open-source projects.
 
 ## 我的博客 · My Blog
 欢迎访问我的中英文个人博客。<br>
@@ -35,11 +38,18 @@ Lane driving project: [lane_driving](https://github.com/Zhuqiben/lane_driving) �
 MPIIGaze 与 MPIIFaceGaze 的非官方 PyTorch 实现：[pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) · Python / PyTorch<br>
 Unofficial PyTorch implementation of MPIIGaze and MPIIFaceGaze: [pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) · Python / PyTorch
 
+机器人仿真视觉项目：使用 YOLO 在 Webots 中实现动态目标检测与跟踪，推理速度达到 20 FPS 以上 · YOLO / ROS / Webots<br>
+Robot simulation vision project: real-time object detection and tracking with YOLO in Webots, reaching over 20 FPS · YOLO / ROS / Webots
+
+无人机人脸识别跟踪系统：使用 LBPH 与卡尔曼滤波构建树莓派/Pixhawk 感知与控制闭环 · OpenCV / MAVLink<br>
+Drone face recognition and tracking system: a Raspberry Pi/Pixhawk perception and control loop using LBPH and Kalman filtering · OpenCV / MAVLink
+
 ## 技术栈 · Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
