@@ -34,14 +34,14 @@ Kaggle 获奖：在 UM - Game-Playing Strength of MCTS Variants Competition 竞�
 Kaggle achievement: received a Competition Bronze Medal in the [UM - Game-Playing Strength of MCTS Variants Competition](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants).
 
 ## 精选项目 · Selected projects
-车道线驾驶项目：[lane_driving](https://github.com/Zhuqiben/lane_driving) · Python<br>
-Lane driving project: [lane_driving](https://github.com/Zhuqiben/lane_driving) · Python
+基于 ROS 2 的车道线跟随功能包：[lane_driving](https://github.com/Zhuqiben/lane_driving) · Python / ROS 2 / OpenCV<br>
+ROS 2 lane-following package: [lane_driving](https://github.com/Zhuqiben/lane_driving) · Python / ROS 2 / OpenCV
 
 MPIIGaze 与 MPIIFaceGaze 的非官方 PyTorch 实现：[pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) · Python / PyTorch<br>
 Unofficial PyTorch implementation of MPIIGaze and MPIIFaceGaze: [pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) · Python / PyTorch
 
-驾驶员监控系统：视线估计（MPIIGaze / MPIIFaceGaze）+ YOLO 行为检测（打电话 / 分心）+ 疲劳分析，含 Tkinter 桌面界面与完整训练教程：[Gaze-DMS](https://github.com/Zhuqiben/Gaze-DMS) · Python / PyTorch / ONNX / Tkinter<br>
-Driver monitoring prototype: gaze estimation (MPIIGaze / MPIIFaceGaze) + YOLO behaviour detection (phone use / distraction) + fatigue analysis, with a Tkinter desktop UI and a full training guide: [Gaze-DMS](https://github.com/Zhuqiben/Gaze-DMS) · Python / PyTorch / ONNX / Tkinter
+驾驶员监控系统：视线估计（MPIIGaze / MPIIFaceGaze）+ YOLO 目标检测（face / phone）+ 疲劳分心分析（EAR / MAR），含 Tkinter 桌面界面与完整训练教程：[Gaze-DMS](https://github.com/Zhuqiben/Gaze-DMS) · Python / PyTorch / ONNX / Tkinter<br>
+Driver monitoring prototype: gaze estimation (MPIIGaze / MPIIFaceGaze) + YOLO object detection (face / phone) + fatigue and distraction analysis (EAR / MAR), with a Tkinter desktop UI and a full training guide: [Gaze-DMS](https://github.com/Zhuqiben/Gaze-DMS) · Python / PyTorch / ONNX / Tkinter
 
 机器人仿真视觉项目：使用 YOLO 在 Webots 中实现动态目标检测与跟踪，推理速度达到 20 FPS 以上 · YOLO / ROS / Webots<br>
 Robot simulation vision project: real-time object detection and tracking with YOLO in Webots, reaching over 20 FPS · YOLO / ROS / Webots
