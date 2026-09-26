@@ -23,6 +23,8 @@ Welcome to my bilingual personal blog.
 [Recent notes](https://zhuqiben.github.io/blog/#posts)<br>
 [精选项目](https://zhuqiben.github.io/blog/#projects)
 [Selected projects](https://zhuqiben.github.io/blog/#projects)<br>
+[联系方式](https://zhuqiben.github.io/blog/#contact)
+[Contact](https://zhuqiben.github.io/blog/#contact)<br>
 
 ## 数据科学 · Data Science
 我的 Kaggle 主页：[qibensu](https://www.kaggle.com/qibensu)<br>
@@ -37,6 +39,9 @@ Lane driving project: [lane_driving](https://github.com/Zhuqiben/lane_driving) �
 
 MPIIGaze 与 MPIIFaceGaze 的非官方 PyTorch 实现：[pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) · Python / PyTorch<br>
 Unofficial PyTorch implementation of MPIIGaze and MPIIFaceGaze: [pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze) · Python / PyTorch
+
+驾驶员监控系统：视线估计（MPIIGaze / MPIIFaceGaze）+ YOLO 行为检测（打电话 / 分心）+ 疲劳分析，含 Tkinter 桌面界面与完整训练教程：[Gaze-DMS](https://github.com/Zhuqiben/Gaze-DMS) · Python / PyTorch / ONNX / Tkinter<br>
+Driver monitoring prototype: gaze estimation (MPIIGaze / MPIIFaceGaze) + YOLO behaviour detection (phone use / distraction) + fatigue analysis, with a Tkinter desktop UI and a full training guide: [Gaze-DMS](https://github.com/Zhuqiben/Gaze-DMS) · Python / PyTorch / ONNX / Tkinter
 
 机器人仿真视觉项目：使用 YOLO 在 Webots 中实现动态目标检测与跟踪，推理速度达到 20 FPS 以上 · YOLO / ROS / Webots<br>
 Robot simulation vision project: real-time object detection and tracking with YOLO in Webots, reaching over 20 FPS · YOLO / ROS / Webots
