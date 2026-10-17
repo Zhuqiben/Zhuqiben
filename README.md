@@ -47,6 +47,7 @@ I am a robot perception developer focused on robot perception, computer vision, 
 | 方向 · Area | 内容 · Details |
 | --- | --- |
 | 机器人框架 · Robotics | ROS 1 / ROS 2（DDS、Action、Lifecycle Node）、Topic / Service 通信、功能包工程化 |
+| SLAM 与导航 · SLAM & Navigation | EKF-SLAM（里程计预测、卡方门限数据关联）、Nav2、TF、OccupancyGrid 建图、Gazebo 仿真 |
 | 仿真与 Sim2Real · Simulation | Webots、Gazebo；关注仿真与真机在传感器噪声、通信延迟上的差异，具备迁移意识 |
 | 计算机视觉 · Computer Vision | 目标检测（YOLO / Faster R-CNN）、人脸识别与跟踪（LBPH + 卡尔曼滤波）、视线追踪 |
 | 嵌入式部署 · Edge Deployment | Jetson Nano、树莓派、Linux；模型轻量化与 ONNX 推理加速 |
@@ -55,17 +56,23 @@ I am a robot perception developer focused on robot perception, computer vision, 
 
 ## 精选项目 · Selected projects
 
-**基于 ROS 2 的车道线跟随功能包：[lane_driving](https://github.com/Zhuqiben/lane_driving)** · Python / ROS 2 / OpenCV<br>
-订阅相机图像检测车道线，经 PID 计算转向后向 /controller/cmd_vel 下发速度指令，形成感知—控制闭环，并附部署文档与测试。
+**ROS 2 EKF-SLAM 地标导航仿真系统：[BEACON](https://github.com/Zhuqiben/beacon)** · ROS 2 / Gazebo / Nav2 / Python<br>
+TurtleBot 3 在 Gazebo 场地中识别彩色地标，经纯 numpy 的 EKF-SLAM 滤波器建图，再由 Nav2 自主导航到指定颜色处并避开两个游走方块；9 个功能包覆盖感知、建图、导航与性能监控，附随机场景生成、pytest 与 CI。
 
-**ROS 2 lane-following package：[lane_driving](https://github.com/Zhuqiben/lane_driving)** · Python / ROS 2 / OpenCV<br>
-Detects lane lines from camera images, computes steering with PID, publishes velocity commands to /controller/cmd_vel to close the perception-control loop, and ships with a deployment guide and tests.
+**ROS 2 EKF-SLAM landmark navigation in simulation：[BEACON](https://github.com/Zhuqiben/beacon)** · ROS 2 / Gazebo / Nav2 / Python<br>
+A TurtleBot 3 detects coloured landmarks in a Gazebo arena, maps them with a pure-numpy EKF-SLAM filter, then navigates to a requested colour with Nav2 while avoiding two roaming blocks; nine packages span perception, mapping, navigation and performance monitoring, with seeded arena generation, pytest and CI.
 
 **驾驶员监控系统：[Gaze-DMS](https://github.com/Zhuqiben/Gaze-DMS)** · Python / PyTorch / ONNX / Tkinter<br>
 视线估计（MPIIGaze / MPIIFaceGaze）+ YOLO 目标检测（face / phone）+ 疲劳分心分析（EAR / MAR），含 Tkinter 桌面界面与完整训练教程。
 
 **Driver monitoring prototype：[Gaze-DMS](https://github.com/Zhuqiben/Gaze-DMS)** · Python / PyTorch / ONNX / Tkinter<br>
 Gaze estimation (MPIIGaze / MPIIFaceGaze) + YOLO object detection (face / phone) + fatigue and distraction analysis (EAR / MAR), with a Tkinter desktop UI and a full training guide.
+
+**基于 ROS 2 的车道线跟随功能包：[lane_driving](https://github.com/Zhuqiben/lane_driving)** · Python / ROS 2 / OpenCV<br>
+订阅相机图像检测车道线，经 PID 计算转向后向 /controller/cmd_vel 下发速度指令，形成感知—控制闭环，并附部署文档与测试。
+
+**ROS 2 lane-following package：[lane_driving](https://github.com/Zhuqiben/lane_driving)** · Python / ROS 2 / OpenCV<br>
+Detects lane lines from camera images, computes steering with PID, publishes velocity commands to /controller/cmd_vel to close the perception-control loop, and ships with a deployment guide and tests.
 
 **MPIIGaze / MPIIFaceGaze 视线估计流程的复现：[pytorch_mpiigaze](https://github.com/Zhuqiben/pytorch_mpiigaze)** · Python / PyTorch<br>
 基于 [hysts 的开源实现](https://github.com/hysts/pytorch_mpiigaze)复现两套公开数据集的训练与评估流程，可延伸至驾驶员监控与人机交互（注视跟随）场景。
