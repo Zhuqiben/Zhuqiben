@@ -36,13 +36,11 @@ I am a robot perception developer focused on robot perception, computer vision, 
 
 - 核心课程：计算机视觉、人工智能、机器学习、数据结构、数字图像处理
 - 自修方向：机器人控制基础、ROS 开发、大模型 + 机器人决策
-- 语言能力：大学英语四级（CET-4）
 
 <br>
 
 - Core courses: Computer Vision, Artificial Intelligence, Machine Learning, Data Structures, Digital Image Processing
 - Self-study: robot control fundamentals, ROS development, LLM + robot decision making
-- Language: CET-4
 
 ## 专业技能 · Skills
 
