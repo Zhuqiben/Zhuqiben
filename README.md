@@ -133,13 +133,13 @@ The robot code for the 2023 physical competition, using a convolutional classifi
 
 | 方向 · Area | 内容 · Details |
 | --- | --- |
-| 机器人框架 · Robotics | ROS 1 / ROS 2（DDS、Action、Lifecycle Node）、Topic / Service 通信、功能包工程化 |
-| SLAM 与导航 · SLAM & Navigation | EKF-SLAM（里程计预测、卡方门限数据关联）、Nav2、TF、OccupancyGrid 建图、Gazebo 仿真 |
-| 仿真与 Sim2Real · Simulation | Webots、Gazebo Classic；关注传感器噪声、通信延迟差异与参数迁移 |
-| 计算机视觉 · Computer Vision | 目标检测（YOLO / Faster R-CNN）、图像分类（CNN / Keras）、人脸识别与跟踪（LBPH + 卡尔曼滤波）、视线估计（MPIIGaze / MPIIFaceGaze） |
-| 嵌入式部署 · Edge Deployment | Jetson Nano、树莓派、RDK 开发板、Linux；模型轻量化与 ONNX 推理加速 |
-| 编程与框架 · Programming | Python、PyTorch、TensorFlow / Keras、C++（基础）、MATLAB |
-| 工具链 · Toolchain | OpenCV、ONNX Runtime、MAVLink、Tkinter、Git、GitHub Actions、GitHub Pages |
+| 机器人框架 · Robotics | ROS 1 / ROS 2（DDS、Action、Lifecycle Node）、Topic / Service 通信、功能包工程化<br>ROS 1 / ROS 2 (DDS, actions, lifecycle nodes), topic / service communication, package engineering |
+| SLAM 与导航 · SLAM & Navigation | EKF-SLAM（里程计预测、卡方门限数据关联）、Nav2、TF、OccupancyGrid 建图、Gazebo 仿真<br>EKF-SLAM (odometry prediction, chi-square gated association), Nav2, TF, occupancy-grid mapping, Gazebo simulation |
+| 仿真与 Sim2Real · Simulation | Webots、Gazebo Classic；关注传感器噪声、通信延迟差异与参数迁移<br>Webots, Gazebo Classic; attention to sensor noise, communication latency gaps and parameter transfer |
+| 计算机视觉 · Computer Vision | 目标检测（YOLO / Faster R-CNN）、图像分类（CNN / Keras）、人脸识别与跟踪（LBPH + 卡尔曼滤波）、视线估计（MPIIGaze / MPIIFaceGaze）<br>Object detection (YOLO / Faster R-CNN), image classification (CNN / Keras), face recognition and tracking (LBPH + Kalman filter), gaze estimation (MPIIGaze / MPIIFaceGaze) |
+| 嵌入式部署 · Edge Deployment | Jetson Nano、树莓派、RDK 开发板、Linux；模型轻量化与 ONNX 推理加速<br>Jetson Nano, Raspberry Pi, RDK boards, Linux; model compression and ONNX inference acceleration |
+| 编程与框架 · Programming | Python、PyTorch、TensorFlow / Keras、C++（基础）、MATLAB<br>Python, PyTorch, TensorFlow / Keras, C++ (working knowledge), MATLAB |
+| 工具链 · Toolchain | OpenCV、ONNX Runtime、MAVLink、Tkinter、Git、GitHub Actions、GitHub Pages<br>OpenCV, ONNX Runtime, MAVLink, Tkinter, Git, GitHub Actions, GitHub Pages |
 
 ## 竞赛与荣誉 · Competitions & Honors
 
