@@ -1,12 +1,14 @@
 <div align="center">
 
-# 你好，我是 soo 👋
+# 你好，我是 soo 👋 · Hi, I'm soo
 
 ### 机器人软件工程师 · 感知算法 · Robot Software Engineer (Perception)
 
-计算机视觉 · ROS 1 / ROS 2 · EKF-SLAM 与 Nav2 · 嵌入式部署 · 仿真到真机
+计算机视觉 · ROS 1 / ROS 2 · EKF-SLAM 与 Nav2 · 嵌入式部署 · 仿真到真机<br>
+Computer vision · ROS 1 / ROS 2 · EKF-SLAM and Nav2 · edge deployment · simulation to real
 
-[个人博客](https://zhuqiben.github.io/blog/) · [精选项目](#精选项目--selected-projects) · [工作与实验室经历](#工作与实验室经历--experience) · [邮箱](mailto:zhuqibensu@proton.me)
+[个人博客](https://zhuqiben.github.io/blog/) · [精选项目](#精选项目--selected-projects) · [工作与实验室经历](#工作与实验室经历--experience) · [邮箱](mailto:zhuqibensu@proton.me)<br>
+[Blog](https://zhuqiben.github.io/blog/) · [Selected projects](#精选项目--selected-projects) · [Experience](#工作与实验室经历--experience) · [Email](mailto:zhuqibensu@proton.me)
 
 </div>
 
@@ -50,6 +52,8 @@ A TurtleBot 3 detects coloured landmarks in a Gazebo arena, maps them with a pur
 - **Back-to-back**: four goals in one launch and one map — 16.8 m in 204 s at 6.0 cm RMS with static obstacles, 17.1 m in 212 s at 6.5 cm RMS with both cubes roaming at 0.6 m/s, 4/4 reached and no contact
 - **Latency breakdown**: detector ≈49 ms (≈20 Hz), EKF-SLAM 4.6 ms, pose bridge 4.3 ms at p50 — the detector is the bottleneck
 - **Validation**: 94 logic-layer pytest cases (EKF, frame transforms, collision tally, colour decision) plus a flake8 / shellcheck / colcon build CI; arenas are generated from `world_seed`, so results are reproducible
+
+🏁 [Four-goal mission animation](https://github.com/Zhuqiben/beacon/blob/main/docs/media/gifs/gif_mission_dynamic.gif) · 📊 [Measurement data and figures](https://github.com/Zhuqiben/beacon/tree/main/docs/media)
 
 **驾驶员监控系统：[Gaze-DMS](https://github.com/Zhuqiben/Gaze-DMS)** · Python / PyTorch / ONNX / YOLO / Tkinter<br>
 融合视线、头部姿态与行为信号判定驾驶员状态的桌面原型，仓库自带权重与相机标定，摄像头与离线视频均可运行。
@@ -102,21 +106,28 @@ The robot code for the 2023 physical competition, using a convolutional classifi
 **某机器人教育硬件公司 · ROS 系统开发工程师**　2026.06 – 至今<br>
 **ROS System Engineer, robotics education hardware company**　Jun 2026 – Present
 
-- 负责 ROS 系列机器人产品的开发与测试，含 RDK 开发板平台上的产品迁移与适配
-- 承接客户定制项目：需求拆解 → ROS 节点实现 → 联调交付
-- 撰写技术文档与部署说明，沉淀可复用的调试流程
-- _（待补充：可量化数字 —— 客户项目数 / 适配产品型号数 / 文档篇数）_
+- 负责 ROS 系列机器人产品的开发与测试，含 RDK 开发板平台上的产品迁移与适配<br>
+  Develop and test the ROS product line, including porting and adapting products to the RDK development board
+- 承接客户定制项目：需求拆解 → ROS 节点实现 → 联调交付<br>
+  Deliver customer-specific projects end to end: requirement breakdown → ROS node implementation → joint debugging and hand-off
+- 撰写技术文档与部署说明，沉淀可复用的调试流程<br>
+  Write technical documentation and deployment guides, building a reusable debugging workflow
+- _（待补充：可量化数字 —— 客户项目数 / 适配产品型号数 / 文档篇数）_<br>
+  _To be filled in: quantified figures — number of customer projects, product models adapted, documents written_
 
 **高校机电创新实验室 · ROS / 视觉方向 实验室总负责人**　2021.12 – 2025.06<br>
 **Head of ROS / Vision Lab, university mechatronics lab**　Dec 2021 – Jun 2025
 
-- _（待补充：团队规模 / 主导技术方向 / 带教人数 / 可量化产出）_
+- _（待补充：团队规模 / 主导技术方向 / 带教人数 / 可量化产出）_<br>
+  _To be filled in: team size, technical directions led, people mentored, quantified output_
 
 **高校科技创新研究院 · 实习生**　2022.05 – 2023.09<br>
 **Intern, university science & technology innovation institute**　May 2022 – Sep 2023
 
-- Scratch 图形化编程上位机开发，支撑教学场景的课程与示例
-- ROS 机器人研发与测试，参与样机功能验证
+- Scratch 图形化编程上位机开发，支撑教学场景的课程与示例<br>
+  Built a Scratch visual-programming desktop client to support courses and teaching examples
+- ROS 机器人研发与测试，参与样机功能验证<br>
+  Contributed to ROS robot development and testing, including functional validation of prototypes
 
 ## 专业技能 · Skills
 
@@ -132,6 +143,8 @@ The robot code for the 2023 physical competition, using a convolutional classifi
 
 ## 竞赛与荣誉 · Competitions & Honors
 
+- **2024 Kaggle 竞赛铜牌 · UM - Game-Playing Strength of MCTS Variants · 位列第 108**（[认证](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants)）<br>
+  Bronze Medal, 2024 Kaggle Competition — UM: Game-Playing Strength of MCTS Variants (ranked 108th, [certificate](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants))
 - **2023 国际自主智能机器人大赛 · 人形机器人现实世界标准赛 · 一等奖**<br>
   First Prize, 2023 International Autonomous Intelligent Robot Competition — Humanoid Real-World Standard Track
 - **2023 国际自主智能机器人大赛 · 机器人仿真赛 · 三等奖**<br>
@@ -140,13 +153,13 @@ The robot code for the 2023 physical competition, using a convolutional classifi
   Third Prize, 2022 — Robot Simulation Track
 - **2022 机械创新大赛 · 省赛 · 三等奖**<br>
   Third Prize, 2022 Provincial Mechanical Innovation Competition
-- **2024 Kaggle 竞赛铜牌 · UM - Game-Playing Strength of MCTS Variants · 位列第 108**（[认证](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants)）<br>
-  Bronze Medal, 2024 Kaggle Competition — UM: Game-Playing Strength of MCTS Variants (ranked 108th)
 
 **相关实践 · Related practice**
 
-- **无人机人脸识别与跟踪系统（论文发表）**：LBP 特征级联分类器 + LBPH 直方图实现特定人脸实时识别，卡尔曼滤波补偿遮挡与运动偏移，结果经 MAVLink 回传飞控形成跟随闭环 · OpenCV / MAVLink / 树莓派 / Pixhawk
-- **大模型 + 机器人决策 / Sim2Real 专项**：GPT-4V 解析自然语言指令并对接 `/cmd_vel`，在 Webots / Gazebo 中对比仿真与真机的摩擦力、延迟差异并尝试 PID 补偿 · LLM / Gazebo
+- **无人机人脸识别与跟踪系统（论文发表）**：LBP 特征级联分类器 + LBPH 直方图实现特定人脸实时识别，卡尔曼滤波补偿遮挡与运动偏移，结果经 MAVLink 回传飞控形成跟随闭环 · OpenCV / MAVLink / 树莓派 / Pixhawk<br>
+  **UAV face recognition and tracking (published)**: LBP cascade plus LBPH histograms for real-time recognition of a specific face, a Kalman filter compensating occlusion and motion drift, results sent back to the flight controller over MAVLink to close the follow loop · OpenCV / MAVLink / Raspberry Pi / Pixhawk
+- **大模型 + 机器人决策 / Sim2Real 专项**：GPT-4V 解析自然语言指令并对接 `/cmd_vel`，在 Webots / Gazebo 中对比仿真与真机的摩擦力、延迟差异并尝试 PID 补偿 · LLM / Gazebo<br>
+  **LLM-driven robot decision making / Sim2Real study**: GPT-4V parses natural-language commands into `/cmd_vel`, comparing simulated and real friction and latency in Webots / Gazebo and attempting PID compensation · LLM / Gazebo
 
 ## 教育背景 · Education
 
@@ -165,10 +178,13 @@ The robot code for the 2023 physical competition, using a convolutional classifi
 
 ## 其他仓库 · Other repositories
 
-- [blog](https://github.com/Zhuqiben/blog) — 中英双语博客与作品集站点，原生 HTML/CSS/JavaScript，项目与文章数据集中在 `data.js`，GitHub Pages 发布，附单元测试
-- [Zhuqiben](https://github.com/Zhuqiben/Zhuqiben) — 本主页仓库
+- [blog](https://github.com/Zhuqiben/blog) — 中英双语博客与作品集站点，原生 HTML/CSS/JavaScript，项目与文章数据集中在 `data.js`，GitHub Pages 发布，附单元测试<br>
+  A bilingual blog and portfolio site in vanilla HTML/CSS/JavaScript, with projects and posts kept in `data.js`, published on GitHub Pages and covered by unit tests
+- [Zhuqiben](https://github.com/Zhuqiben/Zhuqiben) — 本主页仓库<br>
+  This profile repository
 
-> 视线估计部分的训练与评估流程源自 [hysts/pytorch_mpiigaze](https://github.com/hysts/pytorch_mpiigaze)（MIT），已在 `gaze_estimation/` 内维护并在 `THIRD_PARTY_NOTICES.md` 中署名。
+> 视线估计部分的训练与评估流程源自 [hysts/pytorch_mpiigaze](https://github.com/hysts/pytorch_mpiigaze)（MIT），已在 `gaze_estimation/` 内维护并在 `THIRD_PARTY_NOTICES.md` 中署名。<br>
+> The gaze-estimation training and evaluation pipeline follows [hysts/pytorch_mpiigaze](https://github.com/hysts/pytorch_mpiigaze) (MIT), maintained under `gaze_estimation/` and credited in `THIRD_PARTY_NOTICES.md`.
 
 ## 联系方式 · Contact
 
