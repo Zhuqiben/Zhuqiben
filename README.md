@@ -140,8 +140,8 @@ The robot code for the 2023 physical competition, using a convolutional classifi
   Third Prize, 2022 — Robot Simulation Track
 - **2022 机械创新大赛 · 省赛 · 三等奖**<br>
   Third Prize, 2022 Provincial Mechanical Innovation Competition
-- **Kaggle 竞赛铜牌 · UM - Game-Playing Strength of MCTS Variants**（[认证](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants)）<br>
-  Kaggle Competition Bronze Medal — UM: Game-Playing Strength of MCTS Variants
+- **2024 Kaggle 竞赛铜牌 · UM - Game-Playing Strength of MCTS Variants · 位列第 108**（[认证](https://www.kaggle.com/certification/competitions/qibensu/um-game-playing-strength-of-mcts-variants)）<br>
+  Bronze Medal, 2024 Kaggle Competition — UM: Game-Playing Strength of MCTS Variants (ranked 108th)
 
 **相关实践 · Related practice**
 
